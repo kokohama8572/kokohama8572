@@ -24,13 +24,6 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <h2> 📊 GitHub Stats </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=본인깃허브아이디&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF5&icon_color=36BCF5" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인깃허브아이디&layout=compact&theme=transparent&hide_border=true&title_color=36BCF5" height="150" alt="top languages" />
-</div>
 
 <br>
 
