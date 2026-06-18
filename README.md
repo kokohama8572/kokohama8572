@@ -19,8 +19,20 @@
 
 <div align="center">
   <h2> 🛠️ Tech Stack(곧) </h2>
+  
+  <h3> 🖥️ Frontend </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,spring,django,docker,blender,figma,linux&theme=light" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light" alt="Frontend Skills" />
+  </a>
+
+  <h3> ⚙️ Backend </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,python,spring,django&theme=light" alt="Backend Skills" />
+  </a>
+
+  <h3> 🔧 기타 (Tools & Design) </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,blender&theme=light" alt="Other Skills" />
   </a>
 </div>
 
