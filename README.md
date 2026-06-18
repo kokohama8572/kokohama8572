@@ -20,10 +20,9 @@
 <div align="center">
   <h2> 🛠️ Tech Stack(곧) </h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github&theme=light" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,spring,django,docker,blender,figma,linux&theme=light" alt="Skill Icons" />
   </a>
 </div>
-
 
 <br>
 
