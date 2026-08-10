@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-  <h2> 🛠️ Tech Stack(곧) </h2>
+  <h2> 🛠️ Tech Stack </h2>
   
   <h3> 🖥️ Frontend </h3>
   <a href="https://skillicons.dev">
