@@ -27,7 +27,7 @@
 
   <h3> ⚙️ Backend </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,Flask&theme=light" alt="Backend Skills" />
+    <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Backend Skills" />
   </a>
 
   <h3> 🔧 기타 (Tools & Design) </h3>
