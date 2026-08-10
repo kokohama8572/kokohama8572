@@ -22,12 +22,12 @@
   
   <h3> 🖥️ Frontend </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light" alt="Frontend Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js&theme=light" alt="Frontend Skills" />
   </a>
 
   <h3> ⚙️ Backend </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,spring,django,fastapi&theme=light" alt="Backend Skills" />
+    <img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Backend Skills" />
   </a>
 
   <h3> 🔧 기타 (Tools & Design) </h3>
